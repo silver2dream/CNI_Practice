@@ -1,0 +1,5 @@
+{
+	"name": "hank_net",
+	"BridgeName": "test",
+	"IP": "192.0.2.12/24"
+}
