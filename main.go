@@ -28,7 +28,6 @@ func cmdAdd(args *skel.CmdArgs) error {
 	br:= &netlink.Bridge {
 	        LinkAttrs: netlink.LinkAttrs {
 		           Name:sb.BridgeName,
-			   q
 		           MTU:1500,
 		           TxQLen:-1,
 		}, 
